@@ -18,6 +18,7 @@ public class Main {
     	System.out.println("Enter a word");
     	String word = scanner.nextLine();
         System.out.println(isPalindrome(word));
+        scanner.close();
         
     }
 
