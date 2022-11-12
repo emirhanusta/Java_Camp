@@ -15,7 +15,6 @@ public class Main {
         boolean isWin = false;
         boolean isWrong = false;
 
-        System.out.println(number);
         while (right < 5) {
             System.out.print("Lütfen tahmininizi giriniz : ");
             selected = input.nextInt();
